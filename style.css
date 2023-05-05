@@ -1,0 +1,84 @@
+body{
+    font-family: Montserrat;
+}
+
+.login_style {
+   color: #96BB7C;
+}
+
+.botao_join { 
+    background-color: #96BB7C;
+    color: #FFFFFF;
+    width: 125px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+.botao-1 {
+    background-color: #96BB7C;
+    color: #FFFFFF;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.botao-2 { 
+    color: #96BB7C;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: -10px;
+    border-color: #96BB7C;
+}
+
+.ajuste-texto { 
+    line-height: 80px;
+}
+
+.primeira-layer {
+    margin-top: 100px;
+}
+
+.card { 
+    background: #ffffff;
+    box-shadow:  5px 5px 10px #ededed,
+                 -5px -5px 10px #ffffff;
+    display: flex;
+    align-items: center;
+    width: 25rem;
+    height: 20rem;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.card img {
+    margin-top: 50px;
+}
+
+
+#ajuste-no-card {
+    height: 55rem;
+    width: 22rem;
+}
+
+#ajuste-no-meio {
+    height: 54rem;
+    width: 22rem;
+}
+
+.ajuste-botao {
+    background-color: #96BB7C;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.ajuste-footer {
+    padding-top: 15px;
+}
+
+
