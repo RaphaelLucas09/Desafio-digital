@@ -1,15 +1,13 @@
 # Desafio-digital
-Desafio feito para empresa BBSC Digital
-<div align="center">
-![foto capa](https://user-images.githubusercontent.com/117372782/236378821-d7e9b14b-a32e-426e-90b9-a2689a76058e.PNG)
-</div>
+##Desafio feito para empresa BBSC Digital
+
+![foto capa](https://user-images.githubusercontent.com/117372782/236379799-e2c6f951-fe84-4b32-ba59-8dc70ac297f9.PNG)
 
 Neste desafio aonde fui pré-selecionado, foi pedido a criação de uma página web utilizando Tailwind CSS.
-Então foi desenvolvida uma landing page usando o figma como ferramenta
-para o designer do site. Foi um grande desafio, já que não usava o Tailwind faz um tempo e ainda tive que reaprender a sintaxe dele.
+Então foi desenvolvida uma landing page usando o figma como ferramenta para o designer do site. Foi um grande desafio, já que não usava o Tailwind faz um tempo e ainda tive que reaprender a sintaxe dele.
 
-##Tecnologias usadas
+###Tecnologias usadas
 -Html
--Css
+-CSS
 -Javascript
--GSAP (biblioteca de animações para Javascript)
+-GSAP (Bliblioteca para animações Javascript)
